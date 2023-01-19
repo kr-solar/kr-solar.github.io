@@ -1,16 +1,12 @@
-- name: About
+- name: 회사소개
   link: /about/
   new_window: false
   highlight: false
-- name: Blog
+- name: 보도자료 및 수상
   link: /blog/
   new_window: false
   highlight: false
-- name: choices
-  link: /choice/
-  new_window: false
-  highlight: false
-- name: Contact
+- name: 문의하기
   link: /contact/
   new_window: false
   highlight: false
